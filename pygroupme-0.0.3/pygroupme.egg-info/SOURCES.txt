@@ -1,0 +1,8 @@
+README.md
+setup.py
+pygroupme/__init__.py
+pygroupme.egg-info/PKG-INFO
+pygroupme.egg-info/SOURCES.txt
+pygroupme.egg-info/dependency_links.txt
+pygroupme.egg-info/requires.txt
+pygroupme.egg-info/top_level.txt
